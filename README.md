@@ -13,6 +13,6 @@ el sistema operativo. En este programa agregamos funcionalidades a la shell crea
 para detener *procesos en background y listar dichos procesos que están corriendo en el background.
 
 Para compilar:
-gcc -c leercadena.c
-gcc -o mishell mishell.c leercadena.o
+*gcc -c leercadena.c
+*gcc -o mishell mishell.c leercadena.o
 
