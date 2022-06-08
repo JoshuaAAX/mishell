@@ -8,7 +8,7 @@ Modificado por:
 Explicación programa: 
 El shell gestiona la interacción entre el usuario y el sistema operativo 
 solicitándole la entrada, interpretando dicha entrada para el sistema operativo y gestionando cualquier
-resultado de salida procedente del sistema operativo. *Los shells ofrecen un método para comunicarse con 
+resultado de salida procedente del sistema operativo. Los shells ofrecen un método para comunicarse con 
 el sistema operativo. En este programa agregamos funcionalidades a la shell creada, 
 para detener *procesos en background y listar dichos procesos que están corriendo en el background.
 
