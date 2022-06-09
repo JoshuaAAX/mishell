@@ -150,7 +150,7 @@ int main(int argc, char* argv[])
          else 
          {
            procces_pid[counter++]=rc;
-           counter++;
+           //counter++;
            printf("[%d] %d\n",counter,rc);
            continue;
          }
